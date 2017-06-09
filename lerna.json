@@ -4,5 +4,5 @@
     "packages/*"
   ],
   "version": "independent",
-  "registry": "http://localhost:4873/"
+  "registry": "http://http://10.0.21.246:4873/"
 }
