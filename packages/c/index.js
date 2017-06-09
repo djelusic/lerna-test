@@ -1,1 +1,1 @@
-console.log('c asd');
+console.log('c');
