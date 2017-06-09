@@ -1,6 +1,6 @@
 {
   "name": "b",
-  "version": "10.0.13",
+  "version": "10.0.14",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "c": "^10.0.10"
+    "c": "^10.0.11"
   }
 }
