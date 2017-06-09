@@ -1,2 +1,2 @@
 require('c');
-console.log('b asd as'); 
+console.log('b asd a'); 
